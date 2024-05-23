@@ -1,2 +1,2 @@
-# SJCorg
-chi final version
+# ICMSU
+The Interdisciplinary Classroom for Dedicated Instructors
